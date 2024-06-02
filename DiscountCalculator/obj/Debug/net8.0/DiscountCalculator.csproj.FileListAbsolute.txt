@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\Functions\DiscountCalculator\bin\Debug\net8.0\DiscountCalculator.exe
+C:\Users\manni\source\repos\Functions\DiscountCalculator\bin\Debug\net8.0\DiscountCalculator.deps.json
+C:\Users\manni\source\repos\Functions\DiscountCalculator\bin\Debug\net8.0\DiscountCalculator.runtimeconfig.json
+C:\Users\manni\source\repos\Functions\DiscountCalculator\bin\Debug\net8.0\DiscountCalculator.dll
+C:\Users\manni\source\repos\Functions\DiscountCalculator\bin\Debug\net8.0\DiscountCalculator.pdb
+C:\Users\manni\source\repos\Functions\DiscountCalculator\obj\Debug\net8.0\DiscountCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\Functions\DiscountCalculator\obj\Debug\net8.0\DiscountCalculator.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\Functions\DiscountCalculator\obj\Debug\net8.0\DiscountCalculator.AssemblyInfo.cs
+C:\Users\manni\source\repos\Functions\DiscountCalculator\obj\Debug\net8.0\DiscountCalculator.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\Functions\DiscountCalculator\obj\Debug\net8.0\DiscountCalculator.dll
+C:\Users\manni\source\repos\Functions\DiscountCalculator\obj\Debug\net8.0\refint\DiscountCalculator.dll
+C:\Users\manni\source\repos\Functions\DiscountCalculator\obj\Debug\net8.0\DiscountCalculator.pdb
+C:\Users\manni\source\repos\Functions\DiscountCalculator\obj\Debug\net8.0\DiscountCalculator.genruntimeconfig.cache
+C:\Users\manni\source\repos\Functions\DiscountCalculator\obj\Debug\net8.0\ref\DiscountCalculator.dll

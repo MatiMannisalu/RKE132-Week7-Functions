@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\Functions\ArgumentsAndParameters\bin\Debug\net8.0\ArgumentsAndParameters.exe
+C:\Users\manni\source\repos\Functions\ArgumentsAndParameters\bin\Debug\net8.0\ArgumentsAndParameters.deps.json
+C:\Users\manni\source\repos\Functions\ArgumentsAndParameters\bin\Debug\net8.0\ArgumentsAndParameters.runtimeconfig.json
+C:\Users\manni\source\repos\Functions\ArgumentsAndParameters\bin\Debug\net8.0\ArgumentsAndParameters.dll
+C:\Users\manni\source\repos\Functions\ArgumentsAndParameters\bin\Debug\net8.0\ArgumentsAndParameters.pdb
+C:\Users\manni\source\repos\Functions\ArgumentsAndParameters\obj\Debug\net8.0\ArgumentsAndParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\Functions\ArgumentsAndParameters\obj\Debug\net8.0\ArgumentsAndParameters.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\Functions\ArgumentsAndParameters\obj\Debug\net8.0\ArgumentsAndParameters.AssemblyInfo.cs
+C:\Users\manni\source\repos\Functions\ArgumentsAndParameters\obj\Debug\net8.0\ArgumentsAndParameters.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\Functions\ArgumentsAndParameters\obj\Debug\net8.0\ArgumentsAndParameters.dll
+C:\Users\manni\source\repos\Functions\ArgumentsAndParameters\obj\Debug\net8.0\refint\ArgumentsAndParameters.dll
+C:\Users\manni\source\repos\Functions\ArgumentsAndParameters\obj\Debug\net8.0\ArgumentsAndParameters.pdb
+C:\Users\manni\source\repos\Functions\ArgumentsAndParameters\obj\Debug\net8.0\ArgumentsAndParameters.genruntimeconfig.cache
+C:\Users\manni\source\repos\Functions\ArgumentsAndParameters\obj\Debug\net8.0\ref\ArgumentsAndParameters.dll

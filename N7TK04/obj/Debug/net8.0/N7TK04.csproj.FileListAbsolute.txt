@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\Functions\N7TK04\bin\Debug\net8.0\N7TK04.exe
+C:\Users\manni\source\repos\Functions\N7TK04\bin\Debug\net8.0\N7TK04.deps.json
+C:\Users\manni\source\repos\Functions\N7TK04\bin\Debug\net8.0\N7TK04.runtimeconfig.json
+C:\Users\manni\source\repos\Functions\N7TK04\bin\Debug\net8.0\N7TK04.dll
+C:\Users\manni\source\repos\Functions\N7TK04\bin\Debug\net8.0\N7TK04.pdb
+C:\Users\manni\source\repos\Functions\N7TK04\obj\Debug\net8.0\N7TK04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\Functions\N7TK04\obj\Debug\net8.0\N7TK04.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\Functions\N7TK04\obj\Debug\net8.0\N7TK04.AssemblyInfo.cs
+C:\Users\manni\source\repos\Functions\N7TK04\obj\Debug\net8.0\N7TK04.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\Functions\N7TK04\obj\Debug\net8.0\N7TK04.dll
+C:\Users\manni\source\repos\Functions\N7TK04\obj\Debug\net8.0\refint\N7TK04.dll
+C:\Users\manni\source\repos\Functions\N7TK04\obj\Debug\net8.0\N7TK04.pdb
+C:\Users\manni\source\repos\Functions\N7TK04\obj\Debug\net8.0\N7TK04.genruntimeconfig.cache
+C:\Users\manni\source\repos\Functions\N7TK04\obj\Debug\net8.0\ref\N7TK04.dll
